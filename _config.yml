@@ -5,7 +5,7 @@ url: "https://takagotch.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: tkvtv
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -18,7 +18,7 @@ theme_settings:
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Powered by <a href="https://jekyllrb.com/">tkvtv</a> with <a href="https://github.com/rohanchandra/type-theme">takagotch</a>
 
   # Icons
   rss: false
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "takagotch/page120"
   gitter:
   google_plus:
   instagram:
@@ -83,3 +83,5 @@ plugins: [jekyll-paginate]
 exclude:
   - Gemfile
   - Gemfile.lock
+
+
